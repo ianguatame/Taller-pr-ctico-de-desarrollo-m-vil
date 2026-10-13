@@ -1,4 +1,4 @@
-# Vibe
+# Ñistagram
 
 Aplicación móvil - taller práctico 
 
@@ -12,7 +12,7 @@ Vibe simula una red social con tres secciones, navegables desde una barra inferi
 - **Chats:** lista vertical de conversaciones (`ChatTile`) con avatar, último mensaje, hora e indicador de mensajes sin leer.
 - **Laboratorio de widgets:** contador de seguidores interactivo (`NumericCounter`) con límites y actualización mediante `setState()`.
 
-Los datos son estáticos y están escritos directamente en el código.
+
 
 ## Estructura del proyecto
 
@@ -52,5 +52,5 @@ lib/
 
 ## Evidencias
 
-- **Video de demostración (navegación e interactividad):** [enlace de YouTube]
+
 - **Capturas de pantalla:** carpeta `Capturas/` (Home, Chats y Laboratorio de widgets).
