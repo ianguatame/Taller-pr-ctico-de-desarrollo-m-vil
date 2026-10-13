@@ -6,7 +6,7 @@ Aplicación móvil - taller práctico
 
 ## Descripción
 
-Vibe simula una red social con tres secciones, navegables desde una barra inferior (`BottomNavigationBar`):
+ ñistagram simula una red social con tres secciones, navegables desde una barra inferior (`BottomNavigationBar`):
 
 - **Home:** banner promocional, carrusel horizontal de historias destacadas y publicaciones (`PostCard`) con botón "Me gusta".
 - **Chats:** lista vertical de conversaciones (`ChatTile`) con avatar, último mensaje, hora e indicador de mensajes sin leer.
